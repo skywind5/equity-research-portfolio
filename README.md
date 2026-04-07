@@ -26,12 +26,12 @@ To demonstrate practical equity research skills aligned with roles in:
 - Full business and financial analysis
 - Investment thesis
 - Business overview
-- Analysis of financial performance (including ![Revenue Trend](output/meta_revenue_trend.png) and ![Net Income Trend](output/meta_net_income_trend.png))
+- Analysis of financial performance (including [Revenue Trend](output/meta_revenue_trend.png) and [Net Income Trend](output/meta_net_income_trend.png))
 - Catalysts
 - Risks
 - Discounted Cash Flow (DCF) valuation
 - Investment Recommendation
-📄 I have consolidated all these into an equity research report [here](output/Meta_Equity_Research_Report.pdf)
+- 📄 I have consolidated all these into an equity research report [here](output/Meta_Equity_Research_Report.pdf)
 
 ### 🔹 Valuation Engine (Python)
 - Automated DCF model
