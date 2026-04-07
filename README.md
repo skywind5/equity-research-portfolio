@@ -37,10 +37,10 @@ To demonstrate practical equity research skills aligned with roles in:
 - Impact of rates on valuation
 - Yield spread analysis
 
-### 🔹 Interactive Dashboard (Streamlit)
+### 🔹 Interactive Dashboard (Streamlit) 
 - Real-time stock data visualization
 - Key metrics and price trends
-
+Live Dashboard: [Click here](https://equity-research-portfolio-leehanseng.streamlit.app/)
 ---
 
 ## 🛠️ Tools & Technologies
