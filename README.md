@@ -31,7 +31,7 @@ To demonstrate practical equity research skills aligned with roles in:
 - Risks
 - Discounted Cash Flow (DCF) valuation
 - Investment Recommendation
-- 📄 I have consolidated all these into an equity research report [here](output/Meta_Equity_Research_Report.pdf)
+- All these were consolidated into an equity research report [here](output/Meta_Equity_Research_Report.pdf)
 
 ### 🔹 Valuation Engine (Python)
 - Automated DCF model
