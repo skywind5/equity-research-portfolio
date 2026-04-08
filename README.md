@@ -1,23 +1,22 @@
-# 📊 Lee Han Seng's Equity Research & Stock Analysis Portfolio
+# 📊 Lee Han Seng's Independent Equity Research and Stock Analysis Portfolio
 
 ## 👤 About Me
-I am a Singaporean professional with over 20 years of experience in IT systems, data management, and operations, currently transitioning into data analysis role.
+I am a Singaporean professional with over 20 years of experience in IT systems, data management, and operations, currently transitioning into a role in equity research or data analysis.
 
-This portfolio showcases my ability to combine:
+This independent portfolio showcases my ability to combine:
 - Data analytics
 - Financial analysis
 - Investment decision-making
 
-to evaluate equities in a structured, research-driven manner.
+to evaluate equities in a structured, data and research-driven manner.
 
 ---
 
 ## 🎯 Objective
-To demonstrate practical equity research skills aligned with roles in:
-- Investment banking
+To demonstrate practical research and analysis skills aligned with roles in:
 - Equity research
-- Asset management
-
+- Investment analysis
+- Data analysis
 ---
 
 ## 📁 Projects
@@ -78,4 +77,4 @@ To demonstrate practical equity research skills aligned with roles in:
 ---
 
 ## 📬 Contact
-Open to opportunities in data analysis, investment analysis and equity research roles.
+Open to opportunities in equity research analyst, investment analyst and data analyst roles.
